@@ -41,4 +41,4 @@ hotfix/internal-testers
 
 A hotfix branch is usally a branch that refers to the problems of publish builds any bugs and fixes that will happen in that branch will be fixed here first than be merged in dev or main
 
-11-This is all for the project at this point if ou have any questions please let me know I will be happy to answer it.
+11-This is all for the project at this point if you have any questions please let me know I will be happy to answer it.
